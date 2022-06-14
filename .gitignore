@@ -1,1 +1,5 @@
 node_modules
+
+packages/ui/dist
+
+**/.pnpm-debug.log
